@@ -1,4 +1,4 @@
-KULLANDIĞIM KÜTÜPHANELER
+LIBRARİES
 
 Spring Web
 Spring Data JPA
